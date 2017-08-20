@@ -1,0 +1,8 @@
+c:\users\administrator.local\documents\visual studio 2015\Projects\gearUpdater\gearUpdater\bin\Debug\gearUpdater.exe.config
+c:\users\administrator.local\documents\visual studio 2015\Projects\gearUpdater\gearUpdater\bin\Debug\gearUpdater.exe
+c:\users\administrator.local\documents\visual studio 2015\Projects\gearUpdater\gearUpdater\bin\Debug\gearUpdater.pdb
+c:\users\administrator.local\documents\visual studio 2015\Projects\gearUpdater\gearUpdater\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator.local\documents\visual studio 2015\Projects\gearUpdater\gearUpdater\bin\Debug\Newtonsoft.Json.xml
+c:\users\administrator.local\documents\visual studio 2015\Projects\gearUpdater\gearUpdater\obj\Debug\gearUpdater.csprojResolveAssemblyReference.cache
+c:\users\administrator.local\documents\visual studio 2015\Projects\gearUpdater\gearUpdater\obj\Debug\gearUpdater.exe
+c:\users\administrator.local\documents\visual studio 2015\Projects\gearUpdater\gearUpdater\obj\Debug\gearUpdater.pdb

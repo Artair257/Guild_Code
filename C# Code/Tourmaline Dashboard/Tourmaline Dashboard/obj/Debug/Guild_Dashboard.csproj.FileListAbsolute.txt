@@ -1,0 +1,17 @@
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Tourmaline_Dashboard.Form1.resources
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Tourmaline_Dashboard.importForm.resources
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Tourmaline_Dashboard.membership_totals.resources
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Tourmaline_Dashboard.Properties.Resources.resources
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Guild_Dashboard.csproj.GenerateResource.Cache
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Guild_Dashboard.csprojResolveAssemblyReference.cache
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\bin\Debug\Guild_Dashboard.exe.config
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\bin\Debug\Guild_Dashboard.exe.manifest
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\bin\Debug\Guild_Dashboard.application
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\bin\Debug\Guild_Dashboard.exe
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\bin\Debug\Guild_Dashboard.pdb
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Guild_Dashboard.exe.manifest
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Guild_Dashboard.application
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Guild_Dashboard.exe
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Guild_Dashboard.pdb

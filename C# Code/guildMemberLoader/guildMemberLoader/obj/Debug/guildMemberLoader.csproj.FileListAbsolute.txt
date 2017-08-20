@@ -1,0 +1,8 @@
+c:\users\administrator.local\documents\visual studio 2015\Projects\guildMemberLoader\guildMemberLoader\bin\Debug\guildMemberLoader.exe.config
+c:\users\administrator.local\documents\visual studio 2015\Projects\guildMemberLoader\guildMemberLoader\obj\Debug\guildMemberLoader.csprojResolveAssemblyReference.cache
+c:\users\administrator.local\documents\visual studio 2015\Projects\guildMemberLoader\guildMemberLoader\bin\Debug\guildMemberLoader.exe
+c:\users\administrator.local\documents\visual studio 2015\Projects\guildMemberLoader\guildMemberLoader\bin\Debug\guildMemberLoader.pdb
+c:\users\administrator.local\documents\visual studio 2015\Projects\guildMemberLoader\guildMemberLoader\obj\Debug\guildMemberLoader.exe
+c:\users\administrator.local\documents\visual studio 2015\Projects\guildMemberLoader\guildMemberLoader\obj\Debug\guildMemberLoader.pdb
+c:\users\administrator.local\documents\visual studio 2015\Projects\guildMemberLoader\guildMemberLoader\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator.local\documents\visual studio 2015\Projects\guildMemberLoader\guildMemberLoader\bin\Debug\Newtonsoft.Json.xml

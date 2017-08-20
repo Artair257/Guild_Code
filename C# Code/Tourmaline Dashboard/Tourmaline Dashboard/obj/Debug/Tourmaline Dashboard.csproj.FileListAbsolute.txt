@@ -1,0 +1,17 @@
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\bin\Debug\Tourmaline Dashboard.exe.config
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\bin\Debug\Tourmaline Dashboard.exe
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\bin\Debug\Tourmaline Dashboard.pdb
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\bin\Debug\Newtonsoft.Json.xml
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Tourmaline Dashboard.csprojResolveAssemblyReference.cache
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Tourmaline_Dashboard.Form1.resources
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Tourmaline_Dashboard.Properties.Resources.resources
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Tourmaline Dashboard.csproj.GenerateResource.Cache
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Tourmaline Dashboard.exe
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Tourmaline Dashboard.pdb
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Tourmaline_Dashboard.importForm.resources
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\bin\Debug\Tourmaline Dashboard.exe.manifest
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\bin\Debug\Tourmaline Dashboard.application
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Tourmaline Dashboard.exe.manifest
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Tourmaline Dashboard.application
+C:\Users\administrator.LOCAL\Documents\Visual Studio 2015\Projects\Tourmaline Dashboard\Tourmaline Dashboard\obj\Debug\Tourmaline_Dashboard.membership_totals.resources

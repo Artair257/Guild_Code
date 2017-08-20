@@ -1,0 +1,1 @@
+dism /online /enable-feature /featurename:<name> /all /Source:D:\sources\sxs /LimitAccess

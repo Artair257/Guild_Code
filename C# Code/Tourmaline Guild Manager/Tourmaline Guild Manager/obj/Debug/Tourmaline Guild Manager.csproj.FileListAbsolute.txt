@@ -1,0 +1,13 @@
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Guild Manager\Tourmaline Guild Manager\bin\Debug\Tourmaline Guild Manager.exe.config
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Guild Manager\Tourmaline Guild Manager\bin\Debug\Tourmaline Guild Manager.exe
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Guild Manager\Tourmaline Guild Manager\bin\Debug\Tourmaline Guild Manager.pdb
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Guild Manager\Tourmaline Guild Manager\obj\Debug\Tourmaline Guild Manager.csprojResolveAssemblyReference.cache
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Guild Manager\Tourmaline Guild Manager\obj\Debug\Tourmaline_Guild_Manager.Properties.Resources.resources
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Guild Manager\Tourmaline Guild Manager\obj\Debug\Tourmaline Guild Manager.csproj.GenerateResource.Cache
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Guild Manager\Tourmaline Guild Manager\obj\Debug\Tourmaline Guild Manager.exe
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Guild Manager\Tourmaline Guild Manager\obj\Debug\Tourmaline Guild Manager.pdb
+c:\users\administrator.local\documents\visual studio 2015\Projects\Tourmaline Guild Manager\Tourmaline Guild Manager\obj\Debug\Tourmaline_Guild_Manager.attendance_data_form.resources
+C:\Users\administrator.LOCAL\documents\visual studio 2015\Projects\Tourmaline Guild Manager\Tourmaline Guild Manager\bin\Debug\Tourmaline Guild Manager.exe.manifest
+C:\Users\administrator.LOCAL\documents\visual studio 2015\Projects\Tourmaline Guild Manager\Tourmaline Guild Manager\bin\Debug\Tourmaline Guild Manager.application
+C:\Users\administrator.LOCAL\documents\visual studio 2015\Projects\Tourmaline Guild Manager\Tourmaline Guild Manager\obj\Debug\Tourmaline Guild Manager.exe.manifest
+C:\Users\administrator.LOCAL\documents\visual studio 2015\Projects\Tourmaline Guild Manager\Tourmaline Guild Manager\obj\Debug\Tourmaline Guild Manager.application

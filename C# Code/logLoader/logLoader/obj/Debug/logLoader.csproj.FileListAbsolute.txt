@@ -1,0 +1,8 @@
+c:\users\administrator.local\documents\visual studio 2015\Projects\logLoader\logLoader\bin\Debug\logLoader.exe.config
+c:\users\administrator.local\documents\visual studio 2015\Projects\logLoader\logLoader\bin\Debug\logLoader.exe
+c:\users\administrator.local\documents\visual studio 2015\Projects\logLoader\logLoader\bin\Debug\logLoader.pdb
+c:\users\administrator.local\documents\visual studio 2015\Projects\logLoader\logLoader\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator.local\documents\visual studio 2015\Projects\logLoader\logLoader\bin\Debug\Newtonsoft.Json.xml
+c:\users\administrator.local\documents\visual studio 2015\Projects\logLoader\logLoader\obj\Debug\logLoader.csprojResolveAssemblyReference.cache
+c:\users\administrator.local\documents\visual studio 2015\Projects\logLoader\logLoader\obj\Debug\logLoader.exe
+c:\users\administrator.local\documents\visual studio 2015\Projects\logLoader\logLoader\obj\Debug\logLoader.pdb
